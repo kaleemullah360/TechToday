@@ -86,5 +86,3 @@
 ![Case Cade Stylesheet Slide 76 ](csspart-one/slide-76-1024.jpg)
 ![Case Cade Stylesheet Slide 77 ](csspart-one/slide-77-1024.jpg)
 ![Case Cade Stylesheet Slide 78 ](csspart-one/slide-78-1024.jpg)
-
-### Case Cade Styling Part Two
