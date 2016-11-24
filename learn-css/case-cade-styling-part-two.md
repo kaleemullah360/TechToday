@@ -4,7 +4,7 @@
 [Visit Site](http://www.expressionlab.com/)
 #### Published on Jan 27, 2009, in: Design
 
-#### This tutorial is taken from [slideshare.com](http://www.slideshare.net/HatemMahmoud/cascading-style-sheets-part-01-presentation). one of best tutorial by Hatem Mahmoud. the only purpose for clonning this tutorial in github.com as public repository is to learn and understand casecade styling, also for whom want to learn. I specially thank Hatem for making it publically available.
+#### This tutorial is taken from [slideshare.com](http://www.slideshare.net/HatemMahmoud/cascading-style-sheets-part-01-presentation). one of best tutorial by Hatem Mahmoud. the only purpose for cloning this tutorial in github.com as public repository is to learn and understand cascade styling, also for whom want to learn.
 
 ### Case Cade Styling Part Two
 
