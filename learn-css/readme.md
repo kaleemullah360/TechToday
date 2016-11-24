@@ -12,4 +12,4 @@
 |Part One|Part Two|
 |---|---|
 | ![Case Cade Stylesheet Slide Part One  ](csspart-one/slide-2-1024.jpg) |![Case Cade Stylesheet Slide Part Two  ](csspart-two/slide-2-1024.jpg)|
-| [Case Cade Styling Part One](https://github.com/kaleemullah360/TechToday/blob/master/learn-css/case-cade-styling-part-one.md) |### [Case Cade Styling Part Two](https://github.com/kaleemullah360/TechToday/blob/master/learn-css/case-cade-styling-part-two.md)|
+| [Case Cade Styling Part One](https://github.com/kaleemullah360/TechToday/blob/master/learn-css/case-cade-styling-part-one.md) |[Case Cade Styling Part Two](https://github.com/kaleemullah360/TechToday/blob/master/learn-css/case-cade-styling-part-two.md)|
